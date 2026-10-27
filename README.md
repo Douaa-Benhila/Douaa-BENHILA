@@ -57,4 +57,4 @@ const douaa = {
 
 - 💼 LinkedIn : [linkedin.com/in/douaa-benhila](https://www.linkedin.com/in/douaa-benhila-b2062a2aa/)
 - ✉️ Email : [douaa.benhila10@gmail.com](mailto:douaa.benhila10@gmail.com)
-- 🌐 Portfolio : *bientôt en ligne*
+- 🌐 Portfolio : [https://douaa-benhila.vercel.app/](https://douaa-benhila.vercel.app/)
