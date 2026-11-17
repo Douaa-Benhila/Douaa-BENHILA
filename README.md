@@ -53,12 +53,15 @@ const douaa = {
 
 ##  Projets 
 
-| Projet | Description | Stack |
-|--------|-------------|--------------|
-| [Compilateur](https://github.com/Douaa-Benhila/Compilateur) | [Une phrase : ce que fait le projet] | [Techs] |
-| [language-identifier](https://github.com/Douaa-Benhila/language-identifier) | [Une phrase : ce que fait le projet] | [Techs] |
-| [luminy-s-Map](https://github.com/Douaa-Benhila/luminy-s-Map) | [Une phrase : ce que fait le projet] | [Techs] |
-| [TMDB](https://github.com/Douaa-Benhila/TMDB) | [Une phrase : ce que fait le projet] | [Techs] |
+## 🚀 Mes projets
+
+| Projet | Description | Technologies |
+|---|---|---|
+| [**HotelBot**](https://github.com/Douaa-Benhila/HotelBot) | Chatbot en français de réservation hôtelière, avec un moteur de compréhension développé sans API externe | Python · Keras · SQLite · Tkinter |
+| [**Club d'escalade**](https://github.com/Douaa-Benhila/EscaladeJEE) | Application web de gestion des sorties d'un club, avec espace membres et recherche multicritère | Spring Boot · Spring Security · JPA · JSP |
+| [**Quote Hub**](https://github.com/Douaa-Benhila/quote-hub) | Application de citations célèbres avec copie en un clic et mode clair / sombre | Angular · TypeScript · PrimeNG |
+
+✨ Et d'autres projets à découvrir dans [mes dépôts](https://github.com/Douaa-Benhila?tab=repositories) !
 
 ---
 
